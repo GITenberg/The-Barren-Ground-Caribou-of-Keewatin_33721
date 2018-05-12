@@ -1,0 +1,32 @@
+_repo: The-Barren-Ground-Caribou-of-Keewatin_33721
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33721-h/images/cover.png
+creator:
+  author:
+    agent_name: Harper, Francis
+    birthdate: 1886
+    deathdate: 1972
+    gutenberg_agent_id: '36555'
+    url: http://www.gutenberg.org/2009/agents/36555
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Harper_%28biologist%29
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Mammals
+gutenberg_issued: '2010-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33721'
+  lccn: a56006623
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Barren ground caribou'
+- !lcsh 'Caribou -- Nunavut -- Keewatin'
+title: The Barren Ground Caribou of Keewatin
+url: http://www.gutenberg.org/ebooks/33721
